@@ -5,7 +5,7 @@ related:
       type: derived
     - id: 7b582f1a-b318-4c6a-bf4e-66fe49bf55a5
       type: derived
-status: experimental
+status: test
 description: Detects suspicious grand child processes started by the ScreenConnect client service.
 references:
     - https://www.mandiant.com/resources/telegram-malware-iranian-espionage
